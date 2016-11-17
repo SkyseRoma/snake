@@ -1,0 +1,6 @@
+Y:\Documents\training\snake\Snake1\snake.git\Snake1\Snake1\bin\Debug\Snake1.exe.config
+Y:\Documents\training\snake\Snake1\snake.git\Snake1\Snake1\obj\Debug\Snake1.csprojResolveAssemblyReference.cache
+Y:\Documents\training\snake\Snake1\snake.git\Snake1\Snake1\bin\Debug\Snake1.exe
+Y:\Documents\training\snake\Snake1\snake.git\Snake1\Snake1\bin\Debug\Snake1.pdb
+Y:\Documents\training\snake\Snake1\snake.git\Snake1\Snake1\obj\Debug\Snake1.exe
+Y:\Documents\training\snake\Snake1\snake.git\Snake1\Snake1\obj\Debug\Snake1.pdb
